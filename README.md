@@ -1,6 +1,7 @@
 # food_recipe
 
-A new Flutter project.
+This is a Food Recipe App Builed using Flutter And Rest Api
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-23 at 13 30 39 Large](https://user-images.githubusercontent.com/32387645/180604994-833f4dd1-743d-48a7-a2e6-41b1f7487eba.jpeg)
 
 ## Getting Started
 
